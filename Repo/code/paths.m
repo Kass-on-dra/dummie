@@ -1,0 +1,1 @@
+read('..\Repo\data\data.txt');
